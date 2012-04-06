@@ -1,4 +1,4 @@
-## roylines-virtualisation
+## vagrant-boxes
 This repository contains vagrant and puppet configuration for various development virtual environments
 
 # nodebox
